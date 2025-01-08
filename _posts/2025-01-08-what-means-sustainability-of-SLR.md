@@ -1,7 +1,7 @@
 ---
 title: 'What Means Sustainability for Systematic Literature Reviews?'
 date: 2025-01-08
-permalink: /posts/2025/01/what-means-sustainability-of-systematic-literature-reviews/
+permalink: posts/2025/01/what-means-sustainability-of-systematic-literature-reviews/
 tags:
   - Software Engineering
   - Sustainability
@@ -56,7 +56,7 @@ The intersection of these dimensions defines sustainability as: **“The process
 
 It is still a challenge to comprehend and communicate the interconnected nature of sustainability dimensions, researchers often use graphical models. Inspired by the Brundtland Report and other studies, the Venn diagram is a common representation.
 
-<img src='/images/dimensions_v3.jpg' width=500>
+<img src='/academic-bio/images/dimensions_v3.jpg' width=500>
 
 ### Balanced View
 Figure A represents a balanced view where all three dimensions intersect equally. While this approach ensures no single dimension dominates, its feasibility is often questioned due to the complexity of balancing diverse factors.
