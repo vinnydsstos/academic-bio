@@ -19,7 +19,7 @@ In this paper, we observe that Software Engineering community has  problems whil
 
 To conduct an SLR that fits in those attributes is great challenge. Especially because researchers needs to handle with several social, technical and economic barriers I invite you to read the full article and better understand this interesting concept that can change the way we look at literature reviews.
 
----
+## Abstract 
 
 **Context**: Systematic Literature Reviews (SLR) have been recognized as an important research method for summarizing evidence in Software Engineering (SE). At the same, SLR still presents several problems, such as the high resource consumption (mainly human resources) and lack of effective impact on SE practitioners, although much research has already been done.
 
