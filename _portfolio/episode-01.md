@@ -1,5 +1,5 @@
 ---
-title: "Episode 01 - Towards Sustainable Literature Reviews"
+title: "Episode 01 - Towards Sustainability of Systematic Literature Reviews"
 excerpt: "Listen how Sustainablity concept could change your mindset about of Systematic Literature Reviews <br/><img src='/academic-bio/images/ep01.jpg'>"
 collection: portfolio
 ---
