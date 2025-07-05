@@ -115,31 +115,43 @@ Graduated in Systems Analysis and Development from the Federal Technological Uni
  - (https://github.com/CSM-Research) [Applications Repository]
 
 
-
 ## Service
 ---
 
-### Journals
+### Reviewer of the following journals
 
-1. Information Processing and Management (2025)
-2. Information and Software Technology (IST) (2024)
-3. Transactions on Software Engineering and Methodology (TOSEM) (2024)
+1. Computer Standards & Interfaces (2025)
+2. Information Processing and Management (2025)
+3. Information and Software Technology (IST) (2024)
+4. Transactions on Software Engineering and Methodology (TOSEM) (2024)
 
-### Conferences and Symposia
-4. XVIII Simpósio Brasileiro de Componentes Arquiteturas e Reuso de Software (SBCARS) (2024)
-5. XLVII IEEE/ACM International Conference on Software Engineering - New Ideas and Emergent Results (ICSE-NIER) (2024)
-6. XXXVI Conference on Software Engineering Education and Training (CSEE&T) (2024)
-7. XXV Conferência Ibero-Americana de Engenharia de Software (CIbSE) - Complete Papers Track (2022)
-8. XXXVI Simpósio Brasileiro de Engenharia de Software (SBES) - Research Track (2022)
-9. XLII Seminário Integrado de Software e Hardware (SEMISH) - Research Track (2022)
-10. XXVI Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS) - Complete Papers Track (2022)
-11. XIX Congresso Brasileiro de Informática em Saúde (CBIS) - Demonstrations, Experience Reports, and Literature Reviews Track (2022)
-12. XXI Simpósio Brasileiro de Informática na Saúde (SBCAS) - Complete Papers Track (2021)
-13. XXIV Conferência Ibero-Americana de Engenharia de Software (CIbSE'21) - Experimental Software Engineering Track (2021)
-14. XXXV Simpósio Brasileiro de Engenharia de Software (SBES) - Innovative Ideas and Emerging Results Track (2021)
-15. XL Seminário Integrado de Software e Hardware (SEMISH) - Research Track (2020)
-16. XXXIV Simpósio Brasileiro de Engenharia de Software (SBES) - Tools Track (2020)
-17. Brazilian Symposium on Informatics in Education (2019)
+### Reviewer of the following conferences and symposia
+4. 37th International Conference on Testing Software and Systems (ICTSS), Trilha de Pesquisa, 2025.
+5. 	47th IEEE/ACM International Conference on Software Engineering (ICSE), New Ideas and Emergent Results, 2025.
+6. 	Conference on Software Engineering Education and Training (CSEE&T), 2025.
+7. 	29th International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025.
+8. 	19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2025.
+9. 	Foundations of Software Engineering (FSE), Industry track & Software Engineering Education, 2025.
+10. 	LII Seminário Integrado de Software e Hardware (SEMISH), Trilha de Pesquisa, 2025.
+11. 	XXXIX Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Pesquisa, 2025.
+12. 	XXVIII Simpósio Brasileiro de Componentes de Software, Arquiteturas e Reutilização (SBCARS), 2024.
+13. 	XXV Conferência Ibero-Americana de Engenharia de Software (CIbSE), 2022.
+14. 	XXXVI Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Pesquisa, 2022.
+15. 	XLII Seminário Integrado de Software e Hardware (SEMISH), 2022.
+16. 	XXVI Simpósio Brasileiro de Componentes de Software, Arquiteturas e Reutilização (SBCARS), 2022.
+17. 	XIX Congresso Brasileiro de Informática em Saúde (CBIS). Trilha de estudos de demonstração, 2022.
+18. 	XXI Simpósio Brasileiro de Informática na Saúde (SBCAS), Trilha de trabalhos completos, 2021.
+19. 	XXXV Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Ideias Inovadoras e Resultados Emergentes, 2021.
+20. 	XXIV Conferência Ibero-Americana de Engenharia de Software (CIbSE), Trilha de Engenharia de Software Experimental, 2021.
+21. 	XL Seminário Integrado de Software e Hardware (SEMISH), Trilha de Pesquisa, 2020.
+22. 	XXXIV Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Ferramentas, 2020.
+23. 	XXX Simpósio Brasileiro de Informática na Educação (SBIE), Trilha de pesquisa, 2019.
+
+## PC Member
+---
+
+24. 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results and Vision Track, 2025
+25. LII Seminário Integrado de Software e Hardware (SEMISH), 2025
 
 ## Awards
 ---
