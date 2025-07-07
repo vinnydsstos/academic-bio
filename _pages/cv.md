@@ -30,6 +30,14 @@ Graduated in Systems Analysis and Development from the Federal Technological Uni
 
 ## Education
 ---
+
+* **Post-Doctoral  Researcher**, University of São Paulo (USP), Brazil, 2025  
+  - Project: A Framework for Sustainability in Systematic Literature Reviews 
+  - Advisor: Elisa Yumi Nakagawa  
+  - Fellowship: FAPESP  
+  - Keywords: Systematic Literature Review, Software Engineering, Sustainability  
+  - Major Area: Exact and Earth Sciences
+  - 
 * **Ph.D. in Computer Science**, University of São Paulo (USP), Brazil, 2023  
   - Dissertation: A Framework for Economic Sustainability in Systematic Literature Reviews 
   - Advisor: Elisa Yumi Nakagawa  
@@ -56,7 +64,11 @@ Graduated in Systems Analysis and Development from the Federal Technological Uni
 ## Work Experience
 ---
 
-* **June 2023 – Present: Computer Science Professor**  
+* **July 2025 – present: Post-Doctoral Researcher**  
+  - Organization: FAPESP, São Carlos, São Paulo, Brazil  
+  - Duties included: Researching the sustainability of systematic literature reviews, contributing innovative concepts to secondary studies in software engineering.  
+
+* **June 2023 – 2025: Computer Science Professor**  
   - Organization: SENAI, São Carlos, São Paulo, Brazil  
   - Duties include: Teaching programming languages such as Java and Python, exploring Industry 4.0 technologies (IoT, Home and Industrial Automation, AI, Data Science).  
 
