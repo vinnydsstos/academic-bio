@@ -37,7 +37,7 @@ Graduated in Systems Analysis and Development from the Federal Technological Uni
   - Fellowship: FAPESP  
   - Keywords: Systematic Literature Review, Software Engineering, Sustainability  
   - Major Area: Exact and Earth Sciences
-  - 
+    
 * **Ph.D. in Computer Science**, University of São Paulo (USP), Brazil, 2023  
   - Dissertation: A Framework for Economic Sustainability in Systematic Literature Reviews 
   - Advisor: Elisa Yumi Nakagawa  
