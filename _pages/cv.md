@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-
 Graduated in Systems Analysis and Development from the Federal Technological University of Paraná (UTFPR) and Business Administration (UENP); Master in Computer Science and Software Engineering (SE) from UTFPR; PhD in SE from the Institute of Mathematical Sciences and Computing -- University of São Paulo (ICMC/USP), supported by FAPESP and CAPES; post-doctorate at ICMC/USP in the area of SE. I have worked as a developer in software development industry which I often use this experience to teach in technical courses and higher education. My main research area is Evidence-Based Software Engineering (EBSE), more specifically, my work is focused on optimizing the process of obtaining evidence from the literature by introducing the concept of sustainability in the context of Systematic Literature Reviews (SLR). In addition, I work in partnership with the Software Engineering Laboratory (LABES) and the Software Architecture research group at ICMC/USP, looking innovative ways to produce more relevant evidence for decision-making in the software industry.
 
 
