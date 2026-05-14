@@ -1,0 +1,14 @@
+---
+title: "An Applied Approach for Integrating Legacy PLC-Based Systems into Industry 4.0 Environments using Low-Code Platforms"
+collection: publications
+category: journal
+permalink: /publication/2026-04-01-an-applied-approach-for-integrating-legacy-plc-using-retrofit
+excerpt: 'This paper proposes a new approach to integrate legacy PLCs to new technology using retrofit.'
+date: 2026-04-01
+venue: 'The International Journal of Advanced Manufacturing Technology'
+#slidesurl: ''
+paperurl: 'hhttps://link.springer.com/article/10.1007/s00170-026-17921-0'
+citation: 'do Nascimento, E.V., dos Santos, V. & Aroca, R.V. An applied approach for integrating legacy PLC-based systems into Industry 4.0 environments using low-code platforms. Int J Adv Manuf Technol (2026). https://doi.org/10.1007/s00170-026-17921-0'
+---
+
+Industry 4.0 initiatives have promoted the adoption of new digital technologies in industrial environments. However, a large portion of industrial plants still rely on legacy Programmable Logic Controllers (PLCs) and software systems developed over several decades. In developing countries, economic constraints often make full system replacement impractical, resulting in limited interoperability between legacy and modern industrial technologies. This paper proposes an applied approach for the digital modernization of industrial systems through the integration of legacy PLCs with low-code-based platforms, aiming to support incremental Industry 4.0 adoption without requiring hardware replacement. A Design Science Research (DSR) methodology was adopted to design and refine a workflow for legacy system integration. The problem context was characterized through a practitioner survey and a Systematic Literature Review. Based on the identified challenges, a set of requirements was defined and iteratively refined through three industrial case studies, allowing the evaluation of the proposed workflow under different legacy system conditions. The results demonstrate the technical feasibility of integrating legacy PLC-based systems with contemporary digital platforms. Tools such as Node-RED and BIPES enabled data acquisition, processing, and interoperability between legacy and modern components, provided that constraints related to legacy code, communication protocols, and physical interfaces are properly addressed. The proposed workflow offers a practical contribution to industrial digitalization by supporting the gradual integration of legacy systems into Industry 4.0 environments. The approach can reduce technological and economic barriers for industrial modernization, particularly in scenarios where full system replacement is not viable.

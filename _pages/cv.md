@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Graduated in Systems Analysis and Development from the Federal Technological University of Paraná (UTFPR) and Business Administration (UENP); Master in Computer Science and Software Engineering (SE) from UTFPR; PhD in SE from the Institute of Mathematical Sciences and Computing -- University of São Paulo (ICMC/USP), supported by FAPESP and CAPES; post-doctorate at ICMC/USP in the area of SE. I have worked as a developer in software development industry which I often use this experience to teach in technical courses and higher education. My main research area is Evidence-Based Software Engineering (EBSE), more specifically, my work is focused on optimizing the process of obtaining evidence from the literature by introducing the concept of sustainability in the context of Systematic Literature Reviews (SLR). In addition, I work in partnership with the Software Engineering Laboratory (LABES) and the Software Architecture research group at ICMC/USP, looking innovative ways to produce more relevant evidence for decision-making in the software industry.
+He is a Postdoctoral Researcher in the Department of Computer Systems at the Institute of Mathematics and Computer Sciences, University of São Paulo (ICMC/USP), and a visiting researcher at Vrije Universiteit Amsterdam. He earned his PhD in Science, specializing in Software Engineering, from ICMC/USP. He also holds a Master’s degree in Computer Science and Software Engineering from the Federal University of Technology – Paraná (UTFPR). His undergraduate degree is in Systems Analysis and Development, also from UTFPR, where he received awards for academic excellence, including Best Student from the Brazilian Computer Society (SBC), as well as Best Student in his class and in his academic year from UTFPR. He is associated with the Graduate Program in Computer Science and Computational Mathematics (PPG-CCMC) at ICMC/USP and is a member of the Digital Sustainability Center (DiSC) at VU Amsterdam, the Software Engineering Laboratory (LabES), and the Software Architecture Research Group at ICMC/USP. He contributes actively to the Software Engineering community as a reviewer and Program Committee member for national and international conferences (ICSE, EASE, ESEM, FSE, and SBES), and for scientific journals (e.g., JSS, IST, TOSEM, CSI, IPM). His primary research area is Evidence-Based Software Engineering (EBSE), with an emphasis on improving the process of gathering evidence from the scientific literature and incorporating the notion of sustainability into the context of Systematic Literature Reviews (SLRs).
 
 
 ## Research Interests
@@ -32,22 +32,23 @@ Graduated in Systems Analysis and Development from the Federal Technological Uni
 
 * **Post-Doctoral  Researcher**, University of São Paulo (USP), Brazil, 2025  
   - Project: A Framework for Sustainability in Systematic Literature Reviews 
-  - Advisor: Elisa Yumi Nakagawa  
+  - Advisor: Dra. Elisa Yumi Nakagawa  
+  - Co-advisor: Dra. Patricia Lago
   - Fellowship: FAPESP  
   - Keywords: Systematic Literature Review, Software Engineering, Sustainability  
   - Major Area: Exact and Earth Sciences
     
 * **Ph.D. in Computer Science**, University of São Paulo (USP), Brazil, 2023  
   - Dissertation: A Framework for Economic Sustainability in Systematic Literature Reviews 
-  - Advisor: Elisa Yumi Nakagawa  
+  - Advisor: Dra. Elisa Yumi Nakagawa  
   - Scholarship: FAPESP  
   - Keywords: Systematic Literature Review, Software Engineering, Sustainability  
   - Major Area: Exact and Earth Sciences  
 
 * **M.S. in Informatics (Professional)**, Federal University of Technology – Paraná (UTFPR), Brazil, 2018  
   - Thesis: Automatic Generation of Graphical Abstracts Using Natural Language Processing  
-  - Advisor: Érica Ferreira de Souza  
-  - Co-Advisor: Katia Romero Felizardo Scannavino  
+  - Advisor: Dra. Érica Ferreira de Souza  
+  - Co-Advisor: Dra. Katia Romero Felizardo Scannavino  
   - Keywords: Natural Language Processing, Concept Maps, Graphical Abstracts, Software Engineering, Systematic Literature Review  
   - Major Area: Exact and Earth Sciences  
 
@@ -131,38 +132,56 @@ Graduated in Systems Analysis and Development from the Federal Technological Uni
 
 ### Reviewer of the following journals
 
-1. Computer Standards & Interfaces (2025)
-2. Information Processing and Management (2025)
-3. Information and Software Technology (IST) (2024)
-4. Transactions on Software Engineering and Methodology (TOSEM) (2024)
+1. Journal of Software: Evolution and Process (2026)
+2. Journal of Systems and Software (JSS) (2026)
+3. Journal of Software Engineering Research and Development (JSERD) (2025)
+4. SoftwareX (2025)
+5. Computer Standards & Interfaces (CSI) (2025)
+6. Information Processing and Management (IPM) (2026)
+7. Information and Software Technology (IST) (2024)
+8. Transactions on Software Engineering and Methodology (TOSEM) (2024)
+
 
 ### Reviewer of the following conferences and symposia
-4. 37th International Conference on Testing Software and Systems (ICTSS), Trilha de Pesquisa, 2025.
-5. 	47th IEEE/ACM International Conference on Software Engineering (ICSE), New Ideas and Emergent Results, 2025.
-6. 	Conference on Software Engineering Education and Training (CSEE&T), 2025.
-7. 	29th International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025.
-8. 	19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2025.
-9. 	Foundations of Software Engineering (FSE), Industry track & Software Engineering Education, 2025.
-10. 	LII Seminário Integrado de Software e Hardware (SEMISH), Trilha de Pesquisa, 2025.
-11. 	XXXIX Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Pesquisa, 2025.
-12. 	XXVIII Simpósio Brasileiro de Componentes de Software, Arquiteturas e Reutilização (SBCARS), 2024.
-13. 	XXV Conferência Ibero-Americana de Engenharia de Software (CIbSE), 2022.
-14. 	XXXVI Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Pesquisa, 2022.
-15. 	XLII Seminário Integrado de Software e Hardware (SEMISH), 2022.
-16. 	XXVI Simpósio Brasileiro de Componentes de Software, Arquiteturas e Reutilização (SBCARS), 2022.
-17. 	XIX Congresso Brasileiro de Informática em Saúde (CBIS). Trilha de estudos de demonstração, 2022.
-18. 	XXI Simpósio Brasileiro de Informática na Saúde (SBCAS), Trilha de trabalhos completos, 2021.
-19. 	XXXV Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Ideias Inovadoras e Resultados Emergentes, 2021.
-20. 	XXIV Conferência Ibero-Americana de Engenharia de Software (CIbSE), Trilha de Engenharia de Software Experimental, 2021.
-21. 	XL Seminário Integrado de Software e Hardware (SEMISH), Trilha de Pesquisa, 2020.
-22. 	XXXIV Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Ferramentas, 2020.
-23. 	XXX Simpósio Brasileiro de Informática na Educação (SBIE), Trilha de pesquisa, 2019.
+4. International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026.
+5. XXIX Ibero-American Conference on Software Engineering (CIbSE), 2026.
+6. Foundations of Software Engineering (FSE), 2026.
+7. 10th International Workshop on Green and Sustainable Software (GREENS) @ ICSE, 2026.
+8. 9th International Conference on Technical Debt (TechDebt), 2026.
+9. 48th International Conference on Software Engineering (ICSE), Software Engineering in Practice (SEIP), 2026.
+10. 48th International Conference on Software Engineering (ICSE), Software Engineering Education and Training (SEET), 2026.
+11. 2nd International Conference on Engineering Digital Twins (EDTconf), 2025.
+12. XIX Simpósio Brasileiro de Componentes, Arquiteturas e Reuso de Software (SBCARS), 2025.
+13. 37th International Conference on Testing Software and Systems (ICTSS), 2025.
+14. XXXIX Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Pesquisa, 2025.
+15. LII Seminário Integrado de Software e Hardware (SEMISH), Trilha de Pesquisa, 2025.
+16. International Conference on the Foundations of Software Engineering (FSE), 2025.
+17. XXIX International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025.
+18. XXXVI Conference on Software Engineering Education and Training (CSEE&T), 2024.
+19. XLVII IEEE/ACM International Conference on Software Engineering (ICSE), New Ideas and Emergent Results, 2024.
+20. XVIII Simpósio Brasileiro de Componentes, Arquiteturas e Reuso de Software (SBCARS), 2024.
+21. XXV Conferência Ibero-Americana de Engenharia de Software (CIbSE), 2022.
+22. XXXVI Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Pesquisa, 2022.
+23. XLII Seminário Integrado de Software e Hardware (SEMISH), Trilha de Pesquisa, 2022.
+24. XXVI Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS), 2022.
+25. XIX Congresso Brasileiro de Informática em Saúde (CBIS), 2022.
+26. XXI Simpósio Brasileiro de Informática na Saúde (SBIS), 2021.
+27. XXXV Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Ideias Inovadoras e Resultados Emergentes, 2021.
+28. XXIV Conferência Ibero-Americana de Engenharia de Software (CIbSE), Trilha de Engenharia de Software Experimental, 2021.
+29. XL Seminário Integrado de Software e Hardware (SEMISH), Trilha de Pesquisa, 2020.
+30. XXXIV Simpósio Brasileiro de Engenharia de Software (SBES), Trilha de Ferramentas, 2020.
+31. XXX Simpósio Brasileiro de Informática na Educação (SBIE), Trilha de Pesquisa, 2019.
 
 ## PC Member
 ---
 
-24. 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results and Vision Track, 2025
-25. LII Seminário Integrado de Software e Hardware (SEMISH), 2025
+24. 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results and Vision Track, 2025  
+25. LII Seminário Integrado de Software e Hardware (SEMISH), 2025  
+26. ECSA 2026 - 20th European Conference on Software Architecture, Chair de Sustentabilidade, 2026  
+27. SEMISH 2026 - Seminário Integrado de Software e Hardware, Membro de Comitê, 2026  
+28. GREENS 2026 - 10th International Workshop on Green and Sustainable Software, Membro de Comitê, 2026  
+29. ESEM 2025 - 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, Membro de Comitê, 2025  
+30. SEMISH 2025 - Seminário Integrado de Software e Hardware, Membro de Comitê, 2025  
 
 ## Awards
 ---
